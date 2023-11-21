@@ -1,1 +1,1 @@
-# odin-recipes
+# First project on the Odin Project curriculum to demonstrate basic html understanding by making a recepies website
